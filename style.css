@@ -1,0 +1,72 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: content-box;
+    background-color: bisque;
+
+}
+
+h1 {
+    color: rgb(232, 118, 217);
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 10px;
+    margin-top: 10px;
+}
+
+img {
+    margin-left: 630px;
+    margin-bottom: 18px;
+}
+
+.recipe {
+    padding: 40px;
+}
+
+.recipe.pizza {
+    background-color: rgb(88, 88, 230);
+    margin-top: 40px;
+}
+
+.recipe.burger {
+    background-color: rgb(63, 141, 174);
+}
+
+.recipe.waffle {
+    background-color: rgb(175, 97, 224);
+}
+
+.menus{
+    text-align: center;
+    list-style: none;
+    font-size: 30px;
+}
+
+.step {
+    text-align: center;
+    list-style: none;
+    margin-bottom: 18px;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+    background-color: inherit;
+    font-weight: bolder;
+}
+
+h4 {
+    color: rgb(232, 118, 217);
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+p {
+    text-align: center;
+    margin-bottom: 18px;
+}
+
+#home {
+    color: rgb(232, 118, 217);
+    align-self: center;
+}
